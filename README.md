@@ -6,13 +6,11 @@ The challenge requires the creation of a dashboard visualizing the biodiversity 
 ## Structure
 Repo file structure is as follows:
 - belly-button-challenge
-    - index.html: dashboard html page
     - static/js
       - app.js: Javascript code building the dashboard
-    - css: css code
-    - style.css
-    - js: javascript code
-        - logic.js
+    - README.md: this file
+    - index.html: dashboard html
+    - samples.json: source dataset provided by TCC/EdX
 
 ## References
 Mychele Larson's repo was referenced for implementation examples<p>
